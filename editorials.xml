@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editorials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="editorial.xsd">
+    <editorial id="ed-001">
+        <title>이제 다시 독서다</title>
+        <author>이병기</author>
+        <date>2024-05-20</date>
+        <structure>
+            <background>인공지능이 일상에 깊이 들어왔다.</background>
+            <evidence>최근 연구에 따르면 학생들의 문해력이 10년 전보다 현저히 감소했다.</evidence>
+            <argument>사람은 책을 읽으며 사고력을 키워야 한다. AI는 도구일 뿐 주체가 아니다.</argument>
+            <fact>중학생과 초등학생의 AI 사용률이 80%를 넘었다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-002">
+        <title>느려도 괜찮다</title>
+        <author>김민수</author>
+        <date>2024-06-01</date>
+        <structure>
+            <background>빠른 성과를 요구하는 사회 분위기가 만연하다.</background>
+            <evidence>청소년 우울증 상담 건수가 매년 증가하고 있다.</evidence>
+            <argument>성장은 속도가 아니라 방향이다. 천천히 가는 것도 전략이다.</argument>
+            <fact>조기 교육 시장 규모가 역대 최고치를 기록했다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-003">
+        <title>환경은 선택이 아니다</title>
+        <author>박지은</author>
+        <date>2024-06-15</date>
+        <structure>
+            <background>기후 변화가 더 이상 먼 미래의 일이 아니다.</background>
+            <evidence>올해 여름 평균 기온이 관측 이래 최고를 기록했다.</evidence>
+            <argument>환경 보호는 선택이 아닌 생존을 위한 필수 의무다.</argument>
+            <fact>일회용 플라스틱 배출량이 전년 대비 15% 증가했다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-004">
+        <title>노동의 가치</title>
+        <author>정우성</author>
+        <date>2024-07-03</date>
+        <structure>
+            <background>자동화 기술의 발달로 노동 시장이 급변하고 있다.</background>
+            <evidence>무인 점포와 키오스크 도입이 급증하고 있다.</evidence>
+            <argument>노동의 가치는 효율성이 아닌 인간 존중에서 찾아야 한다.</argument>
+            <fact>단순 반복 노동 일자리가 지난 5년간 30% 감소했다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-005">
+        <title>학교의 역할</title>
+        <author>최은영</author>
+        <date>2024-07-20</date>
+        <structure>
+            <background>미래 사회에 필요한 인재상에 대한 논의가 뜨겁다.</background>
+            <evidence>기업들은 성적보다 문제 해결 능력을 중요시한다고 답했다.</evidence>
+            <argument>학교는 입시 기관이 아니라 전인적 성장을 돕는 곳이어야 한다.</argument>
+            <fact>현재 고교 교육과정의 70%가 입시 위주로 편성되어 있다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-006">
+        <title>법과 신뢰</title>
+        <author>한동훈</author>
+        <date>2024-08-11</date>
+        <structure>
+            <background>사법 시스템에 대한 국민의 신뢰도가 낮아지고 있다.</background>
+            <evidence>사법부 신뢰도 조사에서 긍정 응답이 40% 미만으로 나타났다.</evidence>
+            <argument>법은 공정하게 집행될 때 비로소 사회적 합의를 이끌어낼 수 있다.</argument>
+            <fact>유전무죄라는 인식이 국민 10명 중 6명에게 퍼져 있다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-007">
+        <title>청년의 시간</title>
+        <author>윤서진</author>
+        <date>2024-08-25</date>
+        <structure>
+            <background>청년 세대가 겪는 경제적, 심리적 압박이 심각하다.</background>
+            <evidence>청년 실업률과 캥거루족 비율이 지속적으로 상승하고 있다.</evidence>
+            <argument>청년에게 실패할 권리와 다시 일어설 시간을 사회가 보장해야 한다.</argument>
+            <fact>서울의 청년 주거 빈곤율이 30%에 육박한다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-008">
+        <title>지역의 힘</title>
+        <author>서민호</author>
+        <date>2024-09-05</date>
+        <structure>
+            <background>수도권 과밀화와 지방 소멸 위기가 동시에 진행 중이다.</background>
+            <evidence>지방 대학의 신입생 충원율이 급감하고 있다.</evidence>
+            <argument>지역 균형 발전 없이는 국가의 지속 가능한 성장을 담보할 수 없다.</argument>
+            <fact>수도권 인구가 전체 인구의 50%를 넘어섰다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-009">
+        <title>디지털 예절</title>
+        <author>오지현</author>
+        <date>2024-09-18</date>
+        <structure>
+            <background>온라인 공간에서의 소통이 오프라인보다 활발해졌다.</background>
+            <evidence>사이버 명예훼손 및 모욕죄 신고 건수가 매년 증가 추세다.</evidence>
+            <argument>익명성 뒤에 숨지 말고 디지털 공간에서도 기본적인 예절을 지켜야 한다.</argument>
+            <fact>악성 댓글로 인한 피해 사례가 연간 1만 건 이상 보고된다.</fact>
+        </structure>
+    </editorial>
+    <editorial id="ed-010">
+        <title>기억의 중요성</title>
+        <author>강태훈</author>
+        <date>2024-10-09</date>
+        <structure>
+            <background>역사적 사실에 대한 무관심과 왜곡이 우려되는 상황이다.</background>
+            <evidence>역사 교과에 대한 학생들의 흥미도가 다른 과목에 비해 낮다.</evidence>
+            <argument>과거를 기억하고 성찰하지 않는 민족에게 미래는 없다.</argument>
+            <fact>필수 역사 교육 시간이 과거 대비 축소되었다.</fact>
+        </structure>
+    </editorial>
+</editorials>
